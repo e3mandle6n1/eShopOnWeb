@@ -7,9 +7,9 @@ resources:
 
 variables:
   azureServiceConnection: 'azure subs'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
-  resourceGroup: 'rg-az400-container-NAME'
-  location: 'centralus'
+  subscriptionId: '9b3947f7-d18c-426b-9557-f82f4c553b89'
+  resourceGroup: 'DefaultResourceGroup-CCAN'
+  location: 'southafricanorth'
 
 stages:
 - stage: Build
